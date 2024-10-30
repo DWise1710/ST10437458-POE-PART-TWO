@@ -8,7 +8,7 @@ package com.mycompany.st10437458_poe_part_two;
  *
  * @author kabel
  */
-class Login {
+public class Login {
     boolean checkUserName(String user)
     {
         boolean fact1 = false, fact;
